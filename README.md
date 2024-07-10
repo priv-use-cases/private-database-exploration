@@ -1,7 +1,8 @@
 # Private Functional Exploration over Large Datasets
 Code for TETRIS: Priva-t-e Functional -E-xplora-t-i-on over La-r-ge Data-s-ets 
 
-## To run the code, type:
+## To run the code
+in src:
 $ go test -v -run=PDE -timeout=0
 
 ## Setup
